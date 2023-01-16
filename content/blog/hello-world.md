@@ -11,7 +11,7 @@ excerpt: If you’re a WordPress developer then you must have heard about a plug
   called Advanced Custom Fields and a Flexible Content field that allows editors
   to generate new pages easily.
 seo:
-  ogimage: /img/tezos-wpn1xnccgpw-unsplash.jpg
+  ogimage: /img/gumbar.png
   title: Hello World
   description: If you’re a WordPress developer then you must have heard about a
     plugin called Advanced Custom Fields and a Flexible Content field that
