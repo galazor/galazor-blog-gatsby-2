@@ -2,14 +2,18 @@
 id: eHV6csInj
 type: page
 layout: page-builder
-title: Home Page
+title: G A L A Z O R
 permalink: /
 thumbnail: ""
 blocks:
   - type: hero
-    variant: default
+    variant: centered
     title: GALAZOR
-    content: '![Collage](/img/spyjammer-collage-2.png "GALAZOR")'
+    content: '![Collage](/img/gumbar.png "GALAZOR")'
+    buttons: []
+  - type: content
+    content: Welcome to my blog.
+  - type: recentArticles
 seo:
   ogimage: /img/gumbar.png
   title: GALAZOR DOT COM
