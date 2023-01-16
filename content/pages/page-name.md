@@ -18,7 +18,14 @@ blocks:
           content: Button
           url: google.com
   - type: content
-    content: '![hi](/img/henlo-cover.PNG "hi")'
+    content: |-
+      
+
+      ![hi](/img/henlo-cover.PNG "hi")
+  - type: content_image
+    variant: default
+    photo:
+      image: /img/wolf-2-.png
 thumbnail: ""
 date: 2022-04-11T22:00:00.000Z
 id: qdgJ0Efcu
