@@ -4,12 +4,19 @@ layout: page-builder
 permalink: /about/
 blocks:
   - type: hero
-    title: About Henlo.
-    content: ""
+    title: Test
+    content: |-
+      Test
+
+      ![Test](/img/gumbar.png "Test")
+
+      Test
     variant: default
     buttons:
       - button:
           variant: default
+          content: Button
+          url: google.com
   - type: content
     content: '![hi](/img/henlo-cover.PNG "hi")'
 thumbnail: ""
